@@ -12,6 +12,14 @@ font-family: "Arial";
     margin: 0 auto;
 }
 
+#imagen{
+    width: 100px;
+}
+
+#foto{
+    text-align: center;
+}
+
 #cabecera{
     background: greenyellow;
     color: black;
@@ -27,4 +35,5 @@ font-family: "Arial";
 
 #caja h1{
     font-size: 30px;
+    text-align: center;
 }
