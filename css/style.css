@@ -12,6 +12,10 @@ font-family: "Arial";
     margin: 0 auto;
 }
 
+#post{
+    color: orange;
+}
+
 #imagen{
     width: 100px;
 }
